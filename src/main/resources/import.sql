@@ -1,0 +1,8 @@
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Monitor LED','24 pulgadas, marca HP resolución: 1080P, HDMI, 75 Hz',150,null)
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Teclaco Gamming','Lim Chroma, inalambrico, retroiluminado',20,null)
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Cable UTP','Bobina de cable UTP, cat 6, ICC, 300 mts',225,null)
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Memoria RAM','HyperX Fury. DDR4 16 GB, 3600 Ghz',40,null)
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Patch Cord','Cat-6, 5 pies, color azul. marca ICC',5,null)
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Memoria SD','ScanDisk 64GB',15,null)
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Laptop','Core I7-11ma gen, HP ProBook 450 G8',1,050,null)
+INSERT INTO productos(nombre,descripcion,precio,imagen) VALUES('Switch 48 Puertos','Gestionado 48/10/100/1000 PoE+2xGigabits SFP',800,null)
